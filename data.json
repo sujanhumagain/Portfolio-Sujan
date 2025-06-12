@@ -1,0 +1,328 @@
+{
+  "main": {
+    "name": "Aashutosh Chaudhary",
+    "shortDesc": "Network and Security Engineer with hands-on experience in cybersecurity, specializing in Endpoint Security, Threat Mitigation, Vulnerability Management, and Email Security. Skilled in incident response and compliance, with a proactive approach to safeguarding critical assets and ensuring system resilience.",
+    "titles": [
+      "Cyber Security",
+      "Information Security",
+      "Security Engineer"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/?size=100&id=s3t383DCASyx&format=png&color=000000",
+      "https://img.icons8.com/?size=100&id=fzGzsfvNPc0q&format=png&color=000000",
+      "https://img.icons8.com/?size=100&id=oRuHbSGDd1D2&format=png&color=000000",
+      "https://img.icons8.com/?size=100&id=1qDjCJj4IcXi&format=png&color=000000"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749369325/IMG_1392_vgdba8.jpg",
+    "aboutImageCaption": "< Defender 🛡️/>",
+    "title": "Computer Engineer | Network and Security Engineer",
+    "about": "I am a dedicated Network and Security Engineer with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats. \n\n As a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
+    "callUrl": "",
+    "resumeUrl": "https://drive.google.com/file/d/1rDPVgoQDfaM87KaXF1CuO53tKCpsJpqM/view?usp=sharing"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/aashutos/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/aashutosh-chy"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/aashutos__"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/aashutos__"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CrowdStrike Falcon",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
+      "category": "Tools",
+      "url": "https://www.crowdstrike.com/platform/"
+    },
+    {
+      "name": "InsightVM",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372096/InsightVM-V2_jjcqxt.jpg",
+      "category": "Tools",
+      "url": "https://www.rapid7.com/products/insightvm/"
+    },
+    {
+      "name": "PAM360",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372279/pam360_sacusq.png",
+      "category": "Tools",
+      "url": "https://www.manageengine.com/privileged-access-management/"
+    },
+    {
+      "name": "AdSelfService Plus",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372540/adselfservice_wnvv8d.png",
+      "category": "Tools",
+      "url": "https://www.manageengine.com/products/self-service-password/"
+    },
+     {
+      "name": "Harmony Endpoint",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
+      "category": "Tools",
+      "url": "https://www.checkpoint.com/harmony/endpoint/"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools",
+      "url": "Github.com"
+    },
+    {
+      "name": "Computer Engineer",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459259/NEC_yj9rbh.jpg",
+      "category": "Certifications"
+    },
+    {
+      "name": "Blue Team Junior Analyst",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459375/securityblueteam_fyxicu.jpg",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462173/Blue_Team_Junior_Analyst_Pathway_Bundle-btja-1_ojwrik.png"
+    },
+    {
+      "name": "Falcon Platform Technical Fundamentals",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
+      "category": "Certifications",
+      "url": "https://drive.google.com/drive/folders/1sAdcMApy4aGqHloX_Iuuw9OaJq2PanxN?usp=sharing"
+    },
+    {
+      "name": "SentinelOne Sales Engineer Expert",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459618/SentinalOne_ipeo9i.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749536280/SentinelOne_Pre-Sales_Tech_Accreditation_Procient_page-0001_qa1y4n.jpg"
+    },
+    {
+      "name": "Certified in Cybersecurity (CC) Self-Placed",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464489/isc2-logo-png_seeklogo-30_p5nd0x.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464488/Official_CC_Course_Completion_Certificate_Official_ISC_Certified_in_Cybersecurity_CC_Self-Paced_Training_-_1M_Chaudhary_page-0001_vhauuq.jpg"
+    },
+    {
+      "name": "IT Fundamentals for Cybersecurity",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463906/IBM_ykqpuz.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464044/IT_Fundamentals_for_Cybersecurity-1_dgem65.png"
+    },
+    {
+      "name": "Global Cyberpeace Challenge 3.0",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464702/Presentation1_aak4t7.jpg",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464703/Global_Cyberpeace_Participation_page-0001_gz1uk9.jpg"
+    },
+    {
+      "name": "The Fundamentals of Digital Marketing",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464191/Google__G__logo.svg_rncyg0.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464168/Google_Garage_Digital_Marketing-1_kvnr4i.png"
+    },
+    {
+      "name": "CyberOps Associate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458516/CyberOpsAssoc_n34gab.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/d0d546f0-5f43-4dd8-8dae-8a59f479cff2/public_url"
+    },
+    {
+      "name": "CCNA: Introduction to Networks",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458765/CCNAITN__1__ainl0e.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/bff5e6b1-c26e-4451-b980-cb35f03767ca/public_url"
+    },
+    {
+      "name": "CCNA: Switching, Routing, and Wireless Essentials",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458841/CCNASRWE__1__kjoieh.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/a748a6bf-e7c3-44b0-9e60-dc5baa2ae518/public_url"
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459024/I2CS__1__hxlqbe.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/81432355-c7ed-45e2-8298-a0921f175dc5/public_url"
+    },
+    {
+      "name": "OneLogin Technical Specialist",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458590/OneloginTechnicalSpecialist_dwrbc6.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/f24d1004-9ddd-4b96-96ed-d86079f2b94a/public_url"
+    },
+    {
+      "name": "Safeguard Implementation Professional",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462842/Implementation_ydb3ir.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/4bd2c19e-b134-4172-88f9-f1133a628672/public_url"
+    },
+    {
+      "name": "IBM QRadar SIEM Foundations",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462687/IBMQRadar_re7qmy.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/e8490729-8d47-4251-b81b-0144004dda9c/public_url"
+    },
+    {
+      "name": "Verify Access Technical Sales Intermediate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462925/Verifyaccess_k6wn8v.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/847d8386-438e-4cd7-9b11-4b37f0d84c8c/public_url"
+    },
+    {
+      "name": "Verify Privilege Technical Sales Intermediate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463034/Verifyprev_tuzdce.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/a5cd75fb-279f-4296-8dc4-991fbbc47d4f/public_url"
+    },
+    {
+      "name": "Getting Started in Cybersecurity 1.0",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463145/fortinet_cyber_vd8kpj.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/a80ed390-7e73-4cbc-9416-737420bfee7f/public_url"
+    },
+    {
+      "name": "Introduction to the Threat Landscape 1.0",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463223/landscape_fortinet_zavlhk.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/cb44ec9d-bbf2-420f-800c-2f62221f0be9/public_url"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Digital Tacometer",
+      "description": "The measurement of instantaneous torque in terms of voltage displaying rotating speed in revolution per minute (RPM) of a rotating shaft is known as a digital tachometer. An infrared module is used as the input that senses the interruption in terms of beam of rays caused by rotating shaft, generating a pulse. The usual method of counting pulse coming from the encoder in a fixed period of time produces a high precision velocity estimate in the high-speed range. The encoded signal is latched and further sent to decoder that decodes the latched pulse i.e. speed displayed in 7 segment display. This paper mainly focuses on developing a contact-less digital tachometer of maximum 3digit with the help of integrated circuits (ICs).",
+      "category": "Publications",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749536775/tacometer_lb5lyu.jpg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://ijisrt.com/digital-tachometer"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "techstack": "HTML5, CSS, JavaScript",
+      "category": "Portfolio",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749369523/image_2025-06-08_134342126_vokmpi.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://github.com/aashutosh-chy/Personal-Portfolio"
+      }
+    },
+    {
+      "name": "Next-Gen Portfolio Website",
+      "techstack": "TypeScript, JavaScript, CSS",
+      "category": "Portfolio",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367873/next-gen_ealtah.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://github.com/aashutosh-chy/Portfolio-NetxGen2?tab=readme-ov-file"
+      }
+    },
+    {
+      "name": "Cryptography and Steganography",
+      "techstack": "Java",
+      "category": "Security",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367872/cryptography_r9hivv.jpg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://github.com/aashutosh-chy/Cryptography-and-Steganography-Minor-Project-_BTech"
+      }
+    },
+    {
+      "name": "Password Manager",
+      "techstack": "HTML, Python, CSS, JavaScript, Shell",
+      "category": "Security",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367872/password_manager_kgtlho.jpg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Arniko Awasiya Secondary School",
+      "degree": "Science",
+      "duration": "2015 - 2017"
+    },
+    {
+      "institute": "Rungta College of Engineering and Technology | CSVTU",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "duration": "2018 - 2022",
+      "desc": [
+        "Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering, Web Development, Cybersecurity.",
+        "Projects: Developed a Java-based application during the final semester of B.Tech to enable data encryption, decryption, and secure information concealment within multimedia files using steganography techniques."
+      ] 
+    }
+  ],
+  "experiences": [
+    {
+      "company": "SRM Films",
+      "position": "Video Editor | Internship",
+      "duration": "March 2020 - May 2020",
+      "desc": [
+        "Assisted with editing short clips and videos.",
+        "Tools: Wondershare Filmora · Adobe Premiere Pro"
+      ]
+    },
+    {
+      "company": "Virtually Testing Foundation",
+      "position": "Penetration Tester | Internship",
+      "duration": "October 2021 - December 2021",
+      "desc": [
+        "OWASP Top 10 and its fundamentals.",
+        "Web Application penetration testing - Labs.",
+        "Vulnerability Exploitations.",
+        "Professional pentest report writing.",
+        "Networked with the community through social media."
+      ]
+    },
+    {
+      "company": "iCash Pvt. Ltd",
+      "position": "Product Designer | Internship",
+      "duration": "February 2022 - July 2022",
+      "desc": [
+        "Conducted user research to inform design decisions, gaining insights into user needs, pain points, and behaviors.",
+        "Assisted senior designers in creating design concepts and mockups.",
+        "Provided support to end-users.",
+        "Skills: Canva · Adobe XD"
+      ]
+    },
+    {
+      "company": "Raechal Enterprises Pvt. Ltd",
+      "position": "Security Analyst",
+      "duration": "November 2022 - February 2024",
+      "desc": [
+        "Demonstrated expertise in deploying/supporting leading security solutions: Rapid7's InsightVM, ManageEngine's ADSelfService Plus, PAM360.",
+        "Skillful use of ManageEngine's ADManager Plus, Vulnerability Manager Plus, Patch Manager Plus, Rapid7's InsightAppSec, Crowdstrike's EDR/NGAV for robust security.",
+        "Actively advise financial institutions in on-site meetings, enhancing security solutions.",
+        "Contribute to comprehensive security policies, following industry best practices.",
+        "Thoroughly test and evaluate measures for effective asset/data protection.",
+        "Communicate security findings effectively, fostering team collaboration.",
+        "Stay current on security trends/threats, continuously enhance expertise.",
+        "Tools: Insight VM · PAM360 · ADSelfService Plus · ADManager Plus · Crowdstrike EDR/NGAV"
+      ]
+    },
+    {
+      "company": "Max International",
+      "position": "Network and Security Engineer",
+      "duration": "January 2025 - present",
+      "desc": [
+        "Advanced deployment and management of CrowdStrike Falcon EDR and NGAV to proactively detect, investigate, and remediate threats, ensuring endpoint security across enterprise environments.",
+        "Leveraged CrowdStrike Threat Graph and Spotlight for real-time vulnerability assessment and prioritized remediation.",
+        "Knowledge of Email Security Solution Like Checkpoint Harmony Email and Collaboration EPP and EDR solution like SentinelOne Singularity.",
+        "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR."
+      ]
+    }
+  ]
+}
