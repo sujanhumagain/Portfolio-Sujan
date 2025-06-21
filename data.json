@@ -7,7 +7,7 @@
       "Information Security",
       "Security Engineer"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1750490463/WhatsApp_Image_2025-06-21_at_13.06.39_a5d92733_vkfvrf.jpg",
     "techStackImages": [
       "https://img.icons8.com/?size=100&id=s3t383DCASyx&format=png&color=000000",
       "https://img.icons8.com/?size=100&id=fzGzsfvNPc0q&format=png&color=000000",
@@ -16,7 +16,7 @@
     ]
   },
   "about": {
-    "aboutImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749369325/IMG_1392_vgdba8.jpg",
+    "aboutImage": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1749746423/samples/upscale-face-1.jpg",
     "aboutImageCaption": "< Builder 🛡️/>",
     "title": "System and Security Engineer",
     "about": "I am a dedicated System and Security Engineer with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats. \n\n As a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
@@ -26,19 +26,19 @@
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/aashutos/"
+      "link": "https://www.linkedin.com/in/sujanhumagain/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/aashutosh-chy"
+      "link": "https://github.com/sujanhumagain"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/aashutos__"
+      "link": "https://www.instagram.com/sujanhumagain_"
     },
     {
       "icon": "FaTwitter",
-      "link": "https://twitter.com/aashutos__"
+      "link": "https://twitter.com/"
     }
   ],
   "skills": [
@@ -55,10 +55,10 @@
       "url": "https://www.rapid7.com/products/insightvm/"
     },
     {
-      "name": "PAM360",
+      "name": "FortiGate",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372279/pam360_sacusq.png",
       "category": "Tools",
-      "url": "https://www.manageengine.com/privileged-access-management/"
+      "url": "https://www.fortinet.com/products/next-generation-firewall"
     },
     {
       "name": "AdSelfService Plus",
@@ -67,21 +67,16 @@
       "url": "https://www.manageengine.com/products/self-service-password/"
     },
      {
-      "name": "Harmony Endpoint",
+      "name": "PDQ",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
       "category": "Tools",
-      "url": "https://www.checkpoint.com/harmony/endpoint/"
+      "url": "https://www.pdq.com/pdq-deploy-and-inventory/"
     },
     {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
       "category": "Tools",
       "url": "Github.com"
-    },
-    {
-      "name": "Computer Engineer",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459259/NEC_yj9rbh.jpg",
-      "category": "Certifications"
     },
     {
       "name": "Blue Team Junior Analyst",
