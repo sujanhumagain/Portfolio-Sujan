@@ -1,0 +1,19 @@
+# Define your DNS server and the zone you want to query
+$dnsServer = "Your-DNS-Server-Name"  # <-- Replace with your DNS server FQDN or IP
+$zoneName = "yourdomain.com"         # <-- Replace with your DNS zone name
+
+# Query A records from the DNS zone
+$records = Get-DnsServerResourceRecord -ComputerName $dnsServer -ZoneName $zoneName | Where-Object { $_.RecordType -eq "A" }
+
+# Process and export to CSV
+$results = $records | ForEach-Object {
+    [PSCustomObject]@{
+        Hostname = $_.HostName
+        IPAddress = $_.RecordData.IPv4Address
+    }
+}
+
+# Export to CSV
+$results | Export-Csv -Path "C:\dns_records.csv" -NoTypeInformation
+
+Write-Host "Export completed successfully."

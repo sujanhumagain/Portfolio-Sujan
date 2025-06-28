@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Sujan Humagain",
-    "shortDesc": "Network and Security Engineer with hands-on experience in cybersecurity, specializing in Endpoint Security, Threat Mitigation, Vulnerability Management, and Email Security. Skilled in incident response and compliance, with a proactive approach to safeguarding critical assets and ensuring system resilience.",
+    "shortDesc": "I break, fix, and secure systems — all before lunch.",
     "titles": [
       "Cyber Security",
       "Information Security",
@@ -16,10 +16,10 @@
     ]
   },
   "about": {
-    "aboutImage": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1749746423/samples/upscale-face-1.jpg",
-    "aboutImageCaption": "< Builder 🛡️/>",
+    "aboutImage": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751123749/IMG_0233_llabem.jpg",
+    "aboutImageCaption": "< Operator 🕶️/>",
     "title": "System and Security Engineer",
-    "about": "I am a dedicated System and Security Engineer with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats. \n\n As a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
+    "about": "I'm a System and Security Engineer dedicated to building resilient, secure, and high-performing systems. I work across Windows and Linux environments, with practical experience in endpoint protection, patch management, threat detection, and system monitoring. I specialize in using scripting and tooling to reduce manual overhead and enhance system security. My approach blends offensive awareness with defensive precision—focusing on real-world impact, clarity, and control in everything I build. I continuously explore advanced techniques like privilege escalation and secure scripting to anticipate attacker methods and close security gaps proactively. My hands-on experience with cross-platform tools and payloads allows me to innovate and automate solutions that strengthen defenses without sacrificing efficiency. At the core of my work is a simple philosophy: understand deeply, build smart, defend fiercely.",
     "callUrl": "",
     "resumeUrl": "https://drive.google.com/file/d/1z4HNV5fNZtrdJV3ytNyOqpB_Kk3_5Zeo/view?usp=sharing"
   },
@@ -56,7 +56,7 @@
     },
     {
       "name": "FortiGate",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372279/pam360_sacusq.png",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751111876/fortigate_pwp3qp.png",
       "category": "Tools",
       "url": "https://www.fortinet.com/products/next-generation-firewall"
     },
@@ -68,7 +68,7 @@
     },
      {
       "name": "PDQ",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751112002/pdq_qes8ub.png",
       "category": "Tools",
       "url": "https://www.pdq.com/pdq-deploy-and-inventory/"
     },
@@ -79,137 +79,103 @@
       "url": "Github.com"
     },
     {
-      "name": "Blue Team Junior Analyst",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459375/securityblueteam_fyxicu.jpg",
-      "category": "Certifications",
-      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462173/Blue_Team_Junior_Analyst_Pathway_Bundle-btja-1_ojwrik.png"
+      "name": "PowerShell",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751112286/terminal_fhs10f.png",
+      "category": "Tools",
+      "url": "https://learn.microsoft.com/en-us/powershell/"
     },
     {
-      "name": "Falcon Platform Technical Fundamentals",
+      "name": "Palo-Alto",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751112461/palo-alto-networks-logo_ovz2oj.png",
+      "category": "Tools",
+      "url": "https://www.paloaltonetworks.com/network-security/next-generation-firewall"
+    },
+    {
+      "name": "Cisco Certified Network Associate",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751116916/CCNA-Certification-Logo_xcjmst.jpg",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115308/Cisco_Certified_Network_Associate_certificate_page-0001_dolto0.jpg"
+    },
+    {
+      "name": "CrowdStrike Core Security Associate",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
       "category": "Certifications",
-      "url": "https://drive.google.com/drive/folders/1sAdcMApy4aGqHloX_Iuuw9OaJq2PanxN?usp=sharing"
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115311/core_associate_page-0001_ly3ib4.jpg"
     },
     {
-      "name": "SentinelOne Sales Engineer Expert",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459618/SentinalOne_ipeo9i.png",
+      "name": "CrowdStrike Identity Security Associate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
       "category": "Certifications",
-      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749536280/SentinelOne_Pre-Sales_Tech_Accreditation_Procient_page-0001_qa1y4n.jpg"
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115308/identity_associate_page-0001_hqibfs.jpg"
     },
     {
-      "name": "Certified in Cybersecurity (CC) Self-Placed",
+      "name": "CrowdStrike NG-SIEM Associate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115307/siem_associate_page-0001_aju0sy.jpg"
+    },
+    {
+      "name": "Certified in Cybersecurity (CC)",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464489/isc2-logo-png_seeklogo-30_p5nd0x.png",
       "category": "Certifications",
-      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464488/Official_CC_Course_Completion_Certificate_Official_ISC_Certified_in_Cybersecurity_CC_Self-Paced_Training_-_1M_Chaudhary_page-0001_vhauuq.jpg"
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115308/digitalcert_ISC2_page-0001_y1gpyu.jpg"
     },
     {
-      "name": "IT Fundamentals for Cybersecurity",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463906/IBM_ykqpuz.png",
+      "name": "A10 Networks Technical Associate",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751116993/A10-NewLogos-Blue-NoReg-CMYK_ynjowy.png",
       "category": "Certifications",
-      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464044/IT_Fundamentals_for_Cybersecurity-1_dgem65.png"
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115309/A10_Networks_Technical_Associate_esj0im.jpg"
     },
     {
-      "name": "Global Cyberpeace Challenge 3.0",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464702/Presentation1_aak4t7.jpg",
+      "name": "CVSS v3.1",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751117081/cvss_yxjoly.png",
       "category": "Certifications",
-      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464703/Global_Cyberpeace_Participation_page-0001_gz1uk9.jpg"
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115309/certification-CVSS-v3.1-sujanhumagain_q3sl5b.jpg"
     },
     {
-      "name": "The Fundamentals of Digital Marketing",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464191/Google__G__logo.svg_rncyg0.png",
+      "name": "Invicti Technical Certification",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751117137/invicti-social-cover_qefhos.png",
       "category": "Certifications",
-      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464168/Google_Garage_Digital_Marketing-1_kvnr4i.png"
+      "url": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751115308/Invicti_Technical_Certification_page-0001_thf3wg.jpg"
     },
     {
-      "name": "CyberOps Associate",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458516/CyberOpsAssoc_n34gab.png",
+      "name": "CCNA",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751116916/CCNA-Certification-Logo_xcjmst.jpg",
       "category": "Badge",
-      "url": "https://www.credly.com/badges/d0d546f0-5f43-4dd8-8dae-8a59f479cff2/public_url"
+      "url": "https://www.credly.com/badges/9daa3aa3-355b-4281-8d02-9c419e84651c/public_url"
     },
     {
-      "name": "CCNA: Introduction to Networks",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458765/CCNAITN__1__ainl0e.png",
+      "name": "CCNA: Enterprise Networking, Security, and Automation",
+      "image": "https://res.cloudinary.com/dutsbdcgs/image/upload/v1751117470/CCNAENSA__1__m58fct.png",
       "category": "Badge",
-      "url": "https://www.credly.com/badges/bff5e6b1-c26e-4451-b980-cb35f03767ca/public_url"
+      "url": "https://www.credly.com/badges/6c4679c4-2578-4a51-8c54-83630da5ca5e/public_url"
     },
     {
-      "name": "CCNA: Switching, Routing, and Wireless Essentials",
+      "name": "IBM Qrad",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458841/CCNASRWE__1__kjoieh.png",
       "category": "Badge",
       "url": "https://www.credly.com/badges/a748a6bf-e7c3-44b0-9e60-dc5baa2ae518/public_url"
     },
     {
-      "name": "Introduction to Cybersecurity",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459024/I2CS__1__hxlqbe.png",
-      "category": "Badge",
-      "url": "https://www.credly.com/badges/81432355-c7ed-45e2-8298-a0921f175dc5/public_url"
-    },
-    {
-      "name": "OneLogin Technical Specialist",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458590/OneloginTechnicalSpecialist_dwrbc6.png",
-      "category": "Badge",
-      "url": "https://www.credly.com/badges/f24d1004-9ddd-4b96-96ed-d86079f2b94a/public_url"
-    },
-    {
-      "name": "Safeguard Implementation Professional",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462842/Implementation_ydb3ir.png",
-      "category": "Badge",
-      "url": "https://www.credly.com/badges/4bd2c19e-b134-4172-88f9-f1133a628672/public_url"
-    },
-    {
       "name": "IBM QRadar SIEM Foundations",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462687/IBMQRadar_re7qmy.png",
       "category": "Badge",
-      "url": "https://www.credly.com/badges/e8490729-8d47-4251-b81b-0144004dda9c/public_url"
-    },
-    {
-      "name": "Verify Access Technical Sales Intermediate",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462925/Verifyaccess_k6wn8v.png",
-      "category": "Badge",
-      "url": "https://www.credly.com/badges/847d8386-438e-4cd7-9b11-4b37f0d84c8c/public_url"
-    },
-    {
-      "name": "Verify Privilege Technical Sales Intermediate",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463034/Verifyprev_tuzdce.png",
-      "category": "Badge",
-      "url": "https://www.credly.com/badges/a5cd75fb-279f-4296-8dc4-991fbbc47d4f/public_url"
+      "url": "https://www.credly.com/badges/09fc0384-482d-4023-9aa0-96afd6b732ac/public_url"
     },
     {
       "name": "Getting Started in Cybersecurity 1.0",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463145/fortinet_cyber_vd8kpj.png",
       "category": "Badge",
-      "url": "https://www.credly.com/badges/a80ed390-7e73-4cbc-9416-737420bfee7f/public_url"
+      "url": "https://www.credly.com/badges/2015c4b4-684f-496f-8d3e-bd55972d2d21/public_url"
     },
     {
       "name": "Introduction to the Threat Landscape 1.0",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463223/landscape_fortinet_zavlhk.png",
       "category": "Badge",
-      "url": "https://www.credly.com/badges/cb44ec9d-bbf2-420f-800c-2f62221f0be9/public_url"
+      "url": "https://www.credly.com/badges/f2d64a07-976e-4922-bdfb-4962cd62dbc5/public_url"
     }
   ],
   "projects": [
-    {
-      "name": "Digital Tacometer",
-      "description": "The measurement of instantaneous torque in terms of voltage displaying rotating speed in revolution per minute (RPM) of a rotating shaft is known as a digital tachometer. An infrared module is used as the input that senses the interruption in terms of beam of rays caused by rotating shaft, generating a pulse. The usual method of counting pulse coming from the encoder in a fixed period of time produces a high precision velocity estimate in the high-speed range. The encoded signal is latched and further sent to decoder that decodes the latched pulse i.e. speed displayed in 7 segment display. This paper mainly focuses on developing a contact-less digital tachometer of maximum 3digit with the help of integrated circuits (ICs).",
-      "category": "Publications",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749536775/tacometer_lb5lyu.jpg",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": "https://ijisrt.com/digital-tachometer"
-      }
-    },
-    {
-      "name": "Portfolio Website",
-      "techstack": "HTML5, CSS, JavaScript",
-      "category": "Portfolio",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749369523/image_2025-06-08_134342126_vokmpi.png",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": "https://github.com/aashutosh-chy/Personal-Portfolio"
-      }
-    },
     {
       "name": "Next-Gen Portfolio Website",
       "techstack": "TypeScript, JavaScript, CSS",
@@ -220,103 +186,32 @@
         "video": "",
         "visit": "https://github.com/aashutosh-chy/Portfolio-NetxGen2?tab=readme-ov-file"
       }
-    },
-    {
-      "name": "Cryptography and Steganography",
-      "techstack": "Java",
-      "category": "Security",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367872/cryptography_r9hivv.jpg",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": "https://github.com/aashutosh-chy/Cryptography-and-Steganography-Minor-Project-_BTech"
-      }
-    },
-    {
-      "name": "Password Manager",
-      "techstack": "HTML, Python, CSS, JavaScript, Shell",
-      "category": "Security",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367872/password_manager_kgtlho.jpg",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
     }
   ],
   "educations": [
     {
-      "institute": "Arniko Awasiya Secondary School",
-      "degree": "Science",
+      "institute": "Kathmandu Bernhardt College",
       "duration": "2015 - 2017"
     },
     {
-      "institute": "Rungta College of Engineering and Technology | CSVTU",
-      "degree": "Bachelor of Technology in Computer Science and Engineering",
-      "duration": "2018 - 2022",
-      "desc": [
-        "Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering, Web Development, Cybersecurity.",
-        "Projects: Developed a Java-based application during the final semester of B.Tech to enable data encryption, decryption, and secure information concealment within multimedia files using steganography techniques."
-      ] 
+      "institute": "Ratna Rajya Laxmi Campus | Tribhuvan University",
+      "degree": "Bachelor of Arts in Mathematics and Economics",
+      "duration": "2019 - 2023" 
     }
   ],
   "experiences": [
     {
-      "company": "SRM Films",
-      "position": "Video Editor | Internship",
-      "duration": "March 2020 - May 2020",
-      "desc": [
-        "Assisted with editing short clips and videos.",
-        "Tools: Wondershare Filmora · Adobe Premiere Pro"
-      ]
-    },
-    {
-      "company": "Virtually Testing Foundation",
-      "position": "Penetration Tester | Internship",
-      "duration": "October 2021 - December 2021",
-      "desc": [
-        "OWASP Top 10 and its fundamentals.",
-        "Web Application penetration testing - Labs.",
-        "Vulnerability Exploitations.",
-        "Professional pentest report writing.",
-        "Networked with the community through social media."
-      ]
-    },
-    {
-      "company": "iCash Pvt. Ltd",
-      "position": "Product Designer | Internship",
-      "duration": "February 2022 - July 2022",
-      "desc": [
-        "Conducted user research to inform design decisions, gaining insights into user needs, pain points, and behaviors.",
-        "Assisted senior designers in creating design concepts and mockups.",
-        "Provided support to end-users.",
-        "Skills: Canva · Adobe XD"
-      ]
-    },
-    {
       "company": "Raechal Enterprises Pvt. Ltd",
-      "position": "Security Analyst",
+      "position": "System and Security Engineer",
       "duration": "November 2022 - February 2024",
       "desc": [
-        "Demonstrated expertise in deploying/supporting leading security solutions: Rapid7's InsightVM, ManageEngine's ADSelfService Plus, PAM360.",
-        "Skillful use of ManageEngine's ADManager Plus, Vulnerability Manager Plus, Patch Manager Plus, Rapid7's InsightAppSec, Crowdstrike's EDR/NGAV for robust security.",
-        "Actively advise financial institutions in on-site meetings, enhancing security solutions.",
-        "Contribute to comprehensive security policies, following industry best practices.",
-        "Thoroughly test and evaluate measures for effective asset/data protection.",
+        "Designed and maintained robust Windows and Linux infrastructures, ensuring optimal system performance, security, and uptime across diverse environments.",
+        "Designed and maintained robust Windows and Linux infrastructures, ensuring optimal system performance, security, and uptime across diverse environments.",
+        "Developed and automated custom scripts and tools (PowerShell, Bash, Python) to improve operational efficiency, automate routine security tasks, and enable faster incident response.",
+        "Conducted threat detection and analysis using both signature-based and behavior-based methods, leveraging open-source and commercial security tools to identify and mitigate risks early.",
+        "Integrated monitoring and alerting systems (e.g., PRTG, Nagios) to provide real-time visibility into system health and security posture..",
         "Communicate security findings effectively, fostering team collaboration.",
-        "Stay current on security trends/threats, continuously enhance expertise.",
-        "Tools: Insight VM · PAM360 · ADSelfService Plus · ADManager Plus · Crowdstrike EDR/NGAV"
-      ]
-    },
-    {
-      "company": "Max International",
-      "position": "Network and Security Engineer",
-      "duration": "January 2025 - present",
-      "desc": [
-        "Advanced deployment and management of CrowdStrike Falcon EDR and NGAV to proactively detect, investigate, and remediate threats, ensuring endpoint security across enterprise environments.",
-        "Leveraged CrowdStrike Threat Graph and Spotlight for real-time vulnerability assessment and prioritized remediation.",
-        "Knowledge of Email Security Solution Like Checkpoint Harmony Email and Collaboration EPP and EDR solution like SentinelOne Singularity.",
-        "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR."
+        "Provided training and knowledge transfer to teams on secure scripting practices, incident handling, and system monitoring techniques.."
       ]
     }
   ]
